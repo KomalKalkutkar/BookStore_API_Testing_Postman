@@ -26,7 +26,7 @@ BookStore_Postman_Project/
 ├── TestData/
 │   └── BookStoreUsers.csv
 ├── Screenshots/
-│   └── (Optional: add screenshots of test runs)
+│   
 ├── README.md
 ```
 
